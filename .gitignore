@@ -1,0 +1,23 @@
+# Maven build directory
+target/
+
+# YARN NodeManager local directories
+yarn-nm-local/
+yarn-nm-logs/
+
+# Hadoop temporary files and logs
+*.log
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# macOS
+.DS_Store
+
+# Compiled class files
+*.class
